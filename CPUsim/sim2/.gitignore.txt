@@ -1,0 +1,17 @@
+# Executables
+attiny85sim
+
+# C/C++
+*.o
+*.a
+
+# Python
+*.py[cod]
+__pycache__
+
+# Vim
+*~
+*.swp
+
+# Mac
+.DS_Store
